@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sachin +Bodkhe...;Software+Devloper;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sachin+Bodkhe...';Software+Devloper;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></h1>
     
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -124,8 +124,6 @@
 <br/>
 
 
-```text
-Python   1 hrs 58 mins    █████████████████████████   100.00 %
-```
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Sachinbgithub.Sachinbgithub.svg)
