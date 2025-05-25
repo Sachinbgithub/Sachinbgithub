@@ -1,17 +1,28 @@
-<h1 align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sachin+Bodkhe...';Software+Devloper;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></h1>
-    
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Sanket Pote</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
+- 🔭 I’m currently working on [Stride Ease](https://github.com/sanketsanjaypote29/StrideEase.git)
 
+- 🌱 I’m currently learning **NextJS**
 
+- 👨‍💻 All of my projects are available at [https://sankets-portfolio.onrender.com/](https://sankets-portfolio.onrender.com/)
+
+- 💬 Ask me about **react,JavaScript, HTML,CSS, Java, Python, C++**
+
+- 📫 How to reach me **sanketsanjaypote@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sanket-pote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankepote29" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codingwithenviro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithenviro" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanketsanjaypote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanketsanjaypote" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sanketsanjaypote29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketsanjaypote29" height="30" width="40" /></a>
+</p>
+<br clear="both">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/soham-1902/soham-1902/output/snake.svg" alt="Snake animation" />
+</p>
     
 # 🖥️ Technical Skills: 
 <p align="left">
