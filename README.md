@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sanket Pote</h1>
+<h1 align="center">Hi 👋, I'm Sachin Bodkhe</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Stride Ease](https://github.com/sanketsanjaypote29/StrideEase.git)
+- 🔭 I’m currently working on [Vidhan](https://github.com/Sachinbgithub/vidhan)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://sankets-portfolio.onrender.com/](https://sankets-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://sachinbgithub.github.io/](https://sachinbgithub.github.io/)
 
-- 💬 Ask me about **react,JavaScript, HTML,CSS, Java, Python, C++**
+- 💬 Ask me about **Flutter, Java, HTML,CSS, JavaScript, Python, C**
 
-- 📫 How to reach me **sanketsanjaypote@gmail.com**
+- 📫 How to reach me **sachinbodkhe07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sanket-pote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankepote29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingwithenviro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithenviro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanketsanjaypote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanketsanjaypote" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanketsanjaypote29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketsanjaypote29" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sachinbodkhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankepote29" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/codingwithenviro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithenviro" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/sanketsanjaypote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanketsanjaypote" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/sanketsanjaypote29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketsanjaypote29" height="30" width="40" /></a> -->
 </p>
 <br clear="both">
 
